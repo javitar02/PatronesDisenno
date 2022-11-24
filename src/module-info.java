@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author JAVI
+ *
+ */
+module PatronesDiseño {
+}
